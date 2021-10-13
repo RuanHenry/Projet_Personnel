@@ -1,2 +1,2 @@
-# RuanHenry.giuthub.io
+# RuanHenry.github.io
 Projet personnel
